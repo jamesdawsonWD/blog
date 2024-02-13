@@ -116,6 +116,8 @@ ul {
 pre {
   padding: 1.5em;
   border-radius: 8px;
+  margin-bottom: 2em;
+
 }
 pre > code {
   all: unset;
